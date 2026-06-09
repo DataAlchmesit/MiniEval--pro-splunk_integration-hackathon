@@ -60,7 +60,7 @@ Splunk AI Alert
 ## Architecture
  
 <p align="center">
-  <img src="architecture.png" alt="architectural_diagram.png" width="600"/>
+  <img src="architectural_diagram.png" alt="architectural_diagram.png" width="600"/>
 </p>
 The pipeline has five stages:
  

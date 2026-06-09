@@ -2,7 +2,7 @@
 
 MiniEval Pro exposes a **Model Context Protocol (MCP) server** that plugs directly
 into Splunk AI Assistant as a native tool. The agent can call `evaluate_alert`
-mid-reasoning — evaluating its own output before acting on it.
+mid-reasoning - evaluating its own output before acting on it.
 
 ---
 
@@ -172,8 +172,7 @@ python src/mcp_server.py
 
 ## Hackathon Track
 
-This MCP integration is submitted as part of the **Security Track** and is also
-eligible for the **MCP Prize**.
+This MCP integration is submitted as part of the **Security Track**.
 
 The server demonstrates:
 - A working MCP server (`mcp_server.py`)

@@ -1,0 +1,44 @@
+# Core dependency — your own published library
+minieval-pro>=1.0.0
+
+# Splunk SDK — official Python library for Splunk
+splunk-sdk>=1.7.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# For generating demo data
+faker>=19.0.0
+
+# For MCP integration (if needed)
+mcp>=1.0.0
+
+# Core dependency — your own published library
+minieval-pro>=1.0.0
+
+# Splunk SDK — official Python library for Splunk
+splunk-sdk>=1.7.0
+
+# HTTP requests
+requests>=2.31.0
+
+# For generating demo data
+faker>=19.0.0
+
+# For MCP integration
+mcp>=1.0.0
+
+# ── NLP / ML Models (required for NLI faithfulness scoring) ───
+transformers>=4.38.0
+torch>=2.1.0
+sentence-transformers>=2.6.0
+
+# ── Configuration ───
+pydantic>=2.6.0
+
+# ── Utilities ───
+tqdm>=4.66.0
+loguru>=0.7.0

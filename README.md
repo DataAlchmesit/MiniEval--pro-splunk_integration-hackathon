@@ -145,7 +145,27 @@ Evaluated against **2,130 live Splunk security alerts**:
 | Analyst hours saved | **1,065 hours** |
 | Cost vs GPT-4 judge | **200× cheaper** ($0.0003 vs $0.06 per eval) |
 | Auto-suppressed alerts | 1,541 blocked |
- 
+
+Showing few results:
+
+## Dashboard - Real-time Hallucination Detection
+
+<img width="1897" height="967" alt="Screenshot 2026-06-04 131403" src="https://github.com/user-attachments/assets/332e673b-67ff-4103-9862-156682a2e324" />
+
+## Splunk AI Assistant - Natural Language Query on MiniEval Data
+
+<img width="1913" height="1031" alt="Screenshot 2026-06-04 212958" src="https://github.com/user-attachments/assets/545e3cb1-fd06-433c-907b-bef2b570b999" />
+
+## Anomaly Detection - Splunk ML Identifying Statistical Outliers
+
+<img width="1565" height="966" alt="Screenshot 2026-06-04 195730" src="https://github.com/user-attachments/assets/734fe7cf-d69f-46b8-9071-32f2bbb0c5c5" />
+
+## PyPI Package - One-Command Installation
+
+<img width="1543" height="1029" alt="Screenshot 2026-05-21 203853" src="https://github.com/user-attachments/assets/1caa8fc6-097e-4e3d-95a1-525419a057ac" />
+
+
+
 ### Where AI Fails Most
  
 | Attack Category | Hallucination Rate |
@@ -288,7 +308,7 @@ Full list in `requirements.txt`.
 | GitHub | [PREETI-SONI/minieval-splunk-integration](https://github.com/PREETI-SONI/minieval-splunk-integration) |
 | Demo Video | [YouTube — Security Track Demo](#) |
 | Detailed Setup | [SETUP_AND_RUN.md](SETUP_AND_RUN.md) |
-
+| MCP Integration | [MCP_INTEGRATION.md](MCP_INTEGRATION.md) |
 ---
  
 ## License

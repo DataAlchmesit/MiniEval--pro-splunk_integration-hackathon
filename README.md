@@ -250,12 +250,12 @@ splunk_minieval/
 │   └── splunk_client.py       # Splunk REST API client
 ├── dashboard/
 │   └── minieval_dashboard.xml # Splunk dashboard (import directly)
-├── demo/                      # Sample payloads and test runner
+├── demo/                      # Sample payloads and test runner(4k + evals)
 ├── tests/                     # Unit + integration tests
 ├── uploads/
 │   ├── minieval.db            # SQLite evaluation log
 │   └── halueval_data.json     # HaluEval benchmark dataset
-├── example_alerts.json        # 10 labelled test alerts
+├── example_alerts.json        # 60 labelled test alerts
 ├── .env.example               # Environment variable template
 ├── requirements.txt           # All dependencies
 ├── SETUP_AND_RUN.md           # Detailed setup guide

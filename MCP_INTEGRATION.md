@@ -128,6 +128,9 @@ MiniEval returns →
 
 Agent action → Alert forwarded to analyst queue. ✓
 ```
+<img width="1915" height="1141" alt="Screenshot 2026-06-09 203929" src="https://github.com/user-attachments/assets/8450e1f4-8264-44ec-83cc-049c773c4f58" />
+
+
 
 ---
 

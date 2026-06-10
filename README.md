@@ -9,8 +9,8 @@
 
 <br/>
 ```
-     2,130 alerts evaluated      1,541 hallucinations blocked      0 false positives to analysts
-     1,065 analyst hours saved   200× cheaper than GPT-4 judge     pip install minieval-pro
+    4,718 alerts evaluated    ,   3,419 hallucinations blocked  ,      0 false positives to analysts
+  1,065 analyst hours saved  ,  200× cheaper than GPT-4 judge   ,   pip install minieval-pro
 ```
   
 </div>
@@ -150,7 +150,8 @@ Showing few results:
 
 ## Dashboard - Real-time Hallucination Detection
 
-<img width="1897" height="967" alt="Screenshot 2026-06-04 131403" src="https://github.com/user-attachments/assets/332e673b-67ff-4103-9862-156682a2e324" />
+<img width="1918" height="1037" alt="Screenshot 2026-06-10 170404" src="https://github.com/user-attachments/assets/4e571a7e-e8fa-4ae7-9777-b934711d2e20" />
+
 
 ## Splunk AI Assistant - Natural Language Query on MiniEval Data
 

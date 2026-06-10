@@ -29,7 +29,7 @@ You deployed Splunk AI. Your analysts trust it. But here is what is actually hap
  
 The AI sounds **completely confident** when it is completely wrong. In a SOC, that is not a UX problem - it is a security incident waiting to happen.
  
-**In our evaluation of 2,130 real security alerts: 72% were hallucinations.**
+**In our evaluation of 4,178 real security alerts: 73% were hallucinations.**
  
 ---
  

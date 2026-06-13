@@ -138,8 +138,8 @@ Evaluated against **2,130 live Splunk security alerts**:
  
 | Metric | Value |
 |---|---|
-| Total evaluations | 2,130 |
-| Hallucinations caught | **1,541 (72%)** |
+| Total evaluations | 4,718 |
+| Hallucinations caught | **3,419 (72%)** |
 | Faithful alerts passed | 589 (28%) |
 | False positives to analysts | **0** |
 | Analyst hours saved | **1,065 hours** |
@@ -307,7 +307,7 @@ Full list in `requirements.txt`.
 |---|---|
 | PyPI Package | [pypi.org/project/minieval-pro](https://pypi.org/project/minieval-pro/) |
 | GitHub | [PREETI-SONI/minieval-splunk-integration](https://github.com/PREETI-SONI/minieval-splunk-integration) |
-| Demo Video | [YouTube — Security Track Demo](#) |
+| Demo Video | [https://youtu.be/CvrHSxa2Pw8] |
 | Detailed Setup | [SETUP_AND_RUN.md](SETUP_AND_RUN.md) |
 | MCP Integration | [MCP_INTEGRATION.md](MCP_INTEGRATION.md) |
 ---
